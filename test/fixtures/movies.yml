@@ -1,15 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  format: MyString
-  length: MyString
-  releaseyear: MyString
-  rating: MyString
+  title: MyText
+  format: MyText
+  length: 1
+  releaseyear: 1
+  rating: 1
 
 two:
-  title: MyString
-  format: MyString
-  length: MyString
-  releaseyear: MyString
-  rating: MyString
+  title: MyText
+  format: MyText
+  length: 1
+  releaseyear: 1
+  rating: 1
