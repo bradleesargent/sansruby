@@ -5,6 +5,6 @@ REM git config --global user.name "Bradlee Sargent"
 REM git remote rm sansruby
 REM git init
 git add .
-git commit -m "add validation for length, releaseyear and title"
+git commit -m "remove drop table"
 REM git remote add sansruby https://github.com/bradleesargent/sansruby.git
 git push -u sansruby master
